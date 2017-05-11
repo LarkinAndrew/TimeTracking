@@ -1,0 +1,146 @@
+body {
+	background-image: url('images/cheap_diagonal_fabric.png');
+	margin: 0;
+}
+
+.dev-menu {
+	height: 30px;
+	margin-top: 5px;
+	border: 2px solid black;
+	border-radius: 10px;
+	background-color: white;
+}
+
+.dev-menu:hover {
+	background-color: gray;
+}
+
+.index-body {
+	margin-left: 50%;
+}
+
+.logo {
+	width: 280;
+	margin-left: -140px;
+}
+
+.form {
+	border: 2px solid;
+	height: 40px;
+	width: 250px;
+	text-align: center;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+
+.form-login {
+	margin-left: -125px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+}
+
+.inline-menu-elem {
+	display: block;
+	float: left;
+	margin-left: 40px;
+	font-size: 13pt;
+}
+
+.inline-menu-elem:hover {
+	text-decoration: underline;
+}
+
+.cabinet-logo {
+	margin-left: -100px;
+	width: 200;
+}
+
+.cabinet {
+	
+	margin-left: 50%;
+}
+
+.cabinet-line {
+	width: 50%;
+}
+
+.cabinet-line-second {
+	width: 50%;
+	margin-bottom: 30px;
+}
+
+.inline-menu {
+	margin-left: 20%;
+}
+
+.addProj-selecter {
+	border: 2px solid;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+.addProj-selecter-text {
+	margin: 0;
+	margin-bottom: 5px;
+}
+
+.cabinet-row-head {
+
+}
+
+.cabinet-day-elem-head {
+	width: 40px;
+	text-align: center;
+	line-height: 2;
+	font-size: 12pt;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.cabinet-day-elem {
+	width: 40px;
+	text-align: center;
+	height: 25px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.cabinet-row-elem {
+	text-align: center;
+	line-height: 2;
+	font-size: 12pt;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.cabinet-row {
+	margin-bottom: 3;
+}
+
+.cabinet-elem {
+	line-height: 1;
+	font-size: 12pt;
+	color: black;
+	border: 1px solid black;
+	border-radius: 3px;
+	height: 25px;
+}
+
+.cabinet-elem-center {
+	text-align: center;
+	line-height: 1;
+	font-size: 12pt;
+	color: black;
+	border: 1px solid black;
+	border-radius: 3px;
+	height: 25px;
+}
